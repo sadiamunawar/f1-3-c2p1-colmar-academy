@@ -1,0 +1,36 @@
+html{
+	color:white;
+}
+body{
+	background: 64px,53px;
+}
+.navigion img{
+	margin:  24px,32px;
+
+}
+.navigion img li{
+	width:  32px,24px;
+}
+.navigion img li, active{
+	margin:  16px;
+}
+th img{
+	width: 32px,24px;
+	margin: 24px;
+
+}
+.#a{
+	margin: 8px;
+
+}
+tr.th img{
+	margin: 40px,35px;
+}
+h2{
+	padding:32px,32px;
+}
+.p-container img{
+	text-align: auto;
+	width: 32px;
+
+}

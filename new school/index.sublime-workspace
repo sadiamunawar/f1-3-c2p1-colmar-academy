@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n  <title>finitonal school</title>\n  <link href=\"resources/css/style.css\" rel=\"stylesheet\">\n  <link href=\"resources/css/reset.css\" rel=\"stylesheet\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"reset.css\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n\n</head>\n<body>\n  <ul class=\"navigation\">\n    <li><img src=\"https://capstone_colmar_assets/images-chrom.html.document_dowlond/htmlcss1-diagrem_fontanatomy/ic-logo.svg\">\n    colnar Academy</li>\n    <li class=\"active\">campus online or companies Sign in</li>\n\n\n  <table>\n    <thead>\n      <tr>\n        <th><img src=\"https://c:Users/dil/dowends/capstone_colmar_assets/images-chrom.html.document_dowlond/htmlcss1-diagrem_fontanatomy/jpeg.image/banner.jpg\"></th>\n        <th><span>Learn something\n        new everyday</span>\n      loorem ipsum dolor sit amet,\n    consectetur adipiscing elit.\n          start here\n  </th></tr>\n    </thead>\n    <tbody>\n      <tr>\n        <th><img src=\"http://capstone_colmar_assets/capstone-image/jpeg.image/information-main.jpg\">\n        <span>It doesn,t hurt to Keep practicing</span>\n      \"Curabitur vitae libero in ipsum porttitor consequat.Aliquam et commodo lectus,nec consequat meque,Sed non accumsan urna.phasellus sed consequat ex.Etiam eget magne laoreet,effictur dolor consequat.tristique ligula.\"\n\n    Emanuel,Sr Strategist at Hiring.com</th>\n        <th><img src=\"http://capstone_colmar_assets/capstone-image/jpeg.image/information-orientation.jpg\"><span>Orientation date</span>Tue 10/11& Wed 10/12:8am-3pm <a href=\"#\">Read more</a></th>\n        <tr>\n          <th></th>\n          <th><img src=\"http://capstone_colmar_assets/capstone-image/jpeg.image/information-campus.jpg\"><span>Our campus</span> Find which campus is close you <a href=\"#\">Read more</a></th>\n</tr>\n        <tr>\n          <th></th>\n          <th><img src=\"http://capstone_colmar_assets/capstone-image/jpeg.image/imformation-guest-lecture.jpg\"alt=\"codecademy\"><span>Our guest lecture</span>Join a keynote with oliver Sack about music in medical treatment<a href=\"#\">Read more</a></th>\n      </tr>\n      <h2>Start Learing</h2>\n  <img src=\"\"\n",
+			"file": "index.html",
+			"file_size": 3042,
+			"file_write_time": 131586655725840348,
+			"settings":
+			{
+				"buffer_size": 2144,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dil/Desktop/projects/new school"
+	],
+	"file_history":
+	[
+		"/C/Users/dil/Desktop/projects/new school/index.html",
+		"/C/Users/dil/Desktop/projects/new school/index.sublime-project",
+		"/C/Users/dil/Downloads/Sublime Text Build 3143 Setup.exe"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2142,
+								2142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
